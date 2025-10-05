@@ -72,5 +72,5 @@ app.post('/analyze', upload.single('resume'), async (req, res) => {
 // Start server
 const PORT = 3000;
 app.listen(PORT, () => {
-    console.log(✅ Server running on http://localhost:${PORT});
+    console.log(Server running on http://localhost:${PORT});
 });
