@@ -1,0 +1,21 @@
+{
+  "Software Developer": {
+    "skills": ["Python", "JavaScript", "Java", "React", "Node.js", "Git", "SQL", "HTML", "CSS", "API", "MongoDB", "Express", "Django", "REST API", "Docker"]
+  },
+  
+  "Data Analyst": {
+    "skills": ["Python", "R", "SQL", "Excel", "Tableau", "Power BI", "Statistics", "Pandas", "NumPy", "Data Visualization", "MySQL", "ETL"]
+  },
+  
+  "Digital Marketing": {
+    "skills": ["SEO", "SEM", "Google Analytics", "Social Media", "Content Marketing", "Facebook Ads", "Google Ads", "Copywriting", "Email Marketing", "WordPress"]
+  },
+  
+  "UI/UX Designer": {
+    "skills": ["Figma", "Adobe XD", "Sketch", "Photoshop", "Wireframing", "Prototyping", "User Research", "HTML", "CSS", "Illustrator"]
+  },
+  
+  "Content Writer": {
+    "skills": ["Writing", "Editing", "SEO", "WordPress", "Grammar", "Research", "Copywriting", "Proofreading", "Content Strategy", "Social Media"]
+  }
+}
